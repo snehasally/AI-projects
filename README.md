@@ -1,1 +1,1 @@
-# AI-Batch
+# AI projects
